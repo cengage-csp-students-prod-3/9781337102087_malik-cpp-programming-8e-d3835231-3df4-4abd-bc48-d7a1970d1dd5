@@ -15,5 +15,8 @@ int average = 0;
 //executable statements
 average = (num1 + num2 + num3) / 3;
 
+//display output
+cout << "The average is " << average << endl;
+
 return 0;
 }
