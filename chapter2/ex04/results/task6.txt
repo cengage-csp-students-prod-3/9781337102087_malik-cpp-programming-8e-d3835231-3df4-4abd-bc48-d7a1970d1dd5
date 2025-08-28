@@ -1,9 +1,6 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Correct variable values printed to screen
-Reason: Unable to find '['(75\\.35)(?!\\d)', '(\\-35\\.56)(?!\\d)', '(15\\.76)(?!\\d)', '(18\\.5167)(?!\\d)']' in the program's output.
-num1: 75.35 num2 : 35.56 num3: 15.76 average 42.2233
-.
-Error : AssertionError - Unable to find (-35\.56)(?!\d) in the program's output.
-Timestamp: 2025-08-28 23:00:18.685075
+Reason: None
+Timestamp: 2025-08-28 23:02:13.845930
