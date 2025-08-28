@@ -16,7 +16,7 @@ int average = 0;
 average = (num1 + num2 + num3) / 3;
 
 //display output
-cout << "The average is " << average << endl;
+cout << "num1: " << num1 << " num2: " << num2 << " num3: " << num3 << " Average: "<< average << endl;
 
 return 0;
 }
