@@ -10,14 +10,14 @@ int main() {
     // Write your main here
     double kg = 0.0;
     double ibs = 0.0;
-    const double CONVERSION = 2.2;
+    const double KG_TO_LBS_CONVERSION = 2.2;
 
     // Prompt user to enter weight in kilogram 
 
     cout << "Enter your weight in kilograms." << endl;
     cin >> kg;
 
-    ibs = CONVERSION * kg;
+    ibs = KG_TO_LBS_CONVERSION * kg;
 
     // Display the person's weight in pounds
 
