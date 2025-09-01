@@ -13,7 +13,7 @@ int main() {
     const double CONVERSION = 2.2;
 
     // Prompt user to enter weight in kilogram 
-    
+
     cout << "Enter your weight in kilograms." << endl;
     cin >> kg;
 
