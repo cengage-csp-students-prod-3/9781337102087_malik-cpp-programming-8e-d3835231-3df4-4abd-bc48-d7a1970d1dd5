@@ -21,6 +21,6 @@ int main() {
 
     // Display the person's weight in pounds
 
-    cout << "Your weight is " << ibs << " ibs" << endl;
+    cout << "Your weight is " << ibs << " lbs" << endl;
     return 0;
 }
